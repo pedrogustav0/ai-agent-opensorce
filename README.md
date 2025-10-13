@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/code%20style-dev-green)
 ![](https://img.shields.io/github/stars/mscbuild)
 ![](https://img.shields.io/badge/Topic-Github-lighred)
-![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
+![](https://img.shields.io/website?url=https://github.com/mscbuild)
 
 
 <p dir="auto">A curated collection of AI agent use cases across industries, showcasing practical applications and linking to open-source projects for implementation. Explore how AI agents are transforming industries like healthcare, finance, education, and more!  </p>
